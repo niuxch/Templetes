@@ -61,7 +61,7 @@ AA使用XX时无法获得服务
 * Monitoring quickly alerted us to high rate (reaching ~100%) of HTTP 500s
 * Rapidly distributed updated Shakespeare corpus to all clusters
 
-### 不当措施
+### 不当因素
 
 * We're out of practice in responding to cascading failure
 * We exceeded our availability error budget (by several orders of magnitude) due to the exceptional surge of traffic that essentially all resulted in failures
